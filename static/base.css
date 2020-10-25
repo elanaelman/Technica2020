@@ -1,0 +1,21 @@
+nav {
+  margin-bottom: 2rem;
+}
+
+header {
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid black;
+  margin-bottom: 1rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1.5em;
+    line-height: 1.5em;
+  }
+
+.status-button {
+  height: 3em;
+}
